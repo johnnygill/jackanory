@@ -7,7 +7,7 @@ We were struck by your opinion piece on Saturday.  This paragraph, near the
 start of the article, intrigued us::
 
    The young people now coming of are the first in almost a century to
-   embark life in a Bermuda where theit choices are narrowing, not
+   embark life in a Bermuda where their choices are narrowing, not
    expanding. 
 
 We understand where this perception comes from, but feel that this
@@ -18,7 +18,7 @@ the internet.  This can be good for Bermuda.
 
 The article went on to say::
 
-  Further educationand the chance to broaden cultural horizons beyond
+  Further education and the chance to broaden cultural horizons beyond
   our shores is now a financial a financial impossibility for far too
   many gifted youngsters.
 
@@ -36,7 +36,7 @@ hope to change.  Schools and colleges cannot do it alone.
 We see Bermudans helping each other and others daily.  It is central
 to way many people live here.  
 
-Bermuda also has many very talented and dedicated people here, more
+Bermuda also has many very talented and dedicated people, more
 than you would expect of any town of its size.  There are people with
 time and resources to help others, yet it is often those with least
 that help most.
@@ -57,11 +57,11 @@ Mandela's words::
 On July 18th, why not find someone who needs your help and offer it?
 Best of all, help someone learn, let someone teach you something.
 
-Johny and Mary
+Johnny and Mary
 
 PS no need to wait until July 18th
 
-PPS I remember the Firkin Wine bar at college being renamed the
+PPS Johnny remembers the Firkin Wine bar at college being renamed the
 Mandela Bar.  You have no idea the fuss that debate caused.  It was
 1981, or thereabouts.
 
