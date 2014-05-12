@@ -33,7 +33,7 @@ are some skilled and dedicated people in our schools, often working
 with poor resources.  The world is changing faster than curriculae can
 hope to change.  Schools and colleges cannot do it alone.  
 
-We say Bermudans helping each other and others daily.  It is central
+We see Bermudans helping each other and others daily.  It is central
 to way many people live here.  
 
 Bermuda also has many very talented and dedicated people here, more
