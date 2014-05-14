@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'Jackanory Blog'
 
 # Change this to the tagline of your blog
-tagline = 'ununtu, ashin'
+tagline = 'ubuntu, ashin'
 
 # Change this to the description of your blog
 description = 'Hope and vision'
