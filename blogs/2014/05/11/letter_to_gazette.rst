@@ -19,8 +19,8 @@ the internet.  This can be good for Bermuda.
 The article went on to say::
 
   Further education and the chance to broaden cultural horizons beyond
-  our shores is now a financial a financial impossibility for far too
-  many gifted youngsters.
+  our shores is now a financial impossibility for far too many gifted
+  youngsters.
 
 Young people today are faced with many opportunities to learn through
 the internet.  There are amazing resources out there.  People can find
