@@ -91,7 +91,7 @@ depth, but I keep going:
   Not sure if this is the sort of thing you usually
   draw, but thought it might be something you could do.
 
-I added::
+I added:
 
   Oh, and also if you want to read the whole bridge article it is 
   `here <http://stilldrinking.org/programming-sucks>`_,
