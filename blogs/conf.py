@@ -23,14 +23,14 @@ author = 'Johnny Gill'
 copyright = '1984, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://192.168.0.111/blog/html/'
+website = "http://johnnygill.github.io/jackanory/blogs/blog/html/"
 
 # **************************************************************
 # More tweaks you can do
 # **************************************************************
 
 # Add your Disqus shortname to enable comments powered by Disqus
-disqus_shortname = None
+disqus_shortname = 'jackanory'
 
 # Change your favicon (new favicon goes in _static directory)
 html_favicon = 'tinkerer.ico'
