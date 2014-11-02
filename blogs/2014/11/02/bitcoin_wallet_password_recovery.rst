@@ -4,8 +4,8 @@ Bitcoin wallet password recovery
 A few weeks back I was in Ottawa and I bought some bitcoins from this
 bitcoin ATM:
 
-image::
-     bitcoin_atm.jpg
+image:: https://raw.githubusercontent.com/johnnygill/jackanory/master/art/johnny/bitcoin.png
+
 
 I made a basic newbie mistake and took the one piece of paper with the
 wallet password on it to Ottawa with me.
