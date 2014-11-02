@@ -46,3 +46,11 @@ docs/_build/
 # emacs
 
 *~
+
+# blog
+blog/
+
+notebooks/.ipynb_checkpoints
+
+# tokio crap
+tokio
