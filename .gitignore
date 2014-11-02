@@ -47,9 +47,6 @@ docs/_build/
 
 *~
 
-# blog
-blog/
-
 notebooks/.ipynb_checkpoints
 
 # tokio crap
